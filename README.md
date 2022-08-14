@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Gleb-hub
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, C++ and C languages
-- 📫 You can send me email on nechaevgleb@inbox.ru
+- 📫 My Telegram username @gl_epka 
 
-About me:
+Aиout me:
 I am a student, who loves to write code and explore new technologies
 
 
