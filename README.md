@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, C++ and C languages
 - 📫 My Telegram username @gl_epka 
 
-Aиout me:
+About me:
 I am a student, who loves to write code and explore new technologies
 
 
